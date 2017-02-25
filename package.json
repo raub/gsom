@@ -1,0 +1,16 @@
+{
+  "name": "node-qml-test-raub",
+  "version": "0.0.4",
+  "description": "Test node-qml validity",
+  "main": "_test.js",
+  "keywords": [
+    "test",
+    "qml"
+  ],
+  "author": "Luis Blanco <raubtierxxx@gmail.com> (https://github.com/raub)",
+  "license": "MIT",
+  "dependencies": {
+    "node-3d-qml-raub": "^0.1.2",
+    "node-debug-raub": "^0.0.2"
+  }
+}
