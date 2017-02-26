@@ -1,14 +1,18 @@
 {
-  "name": "node-qml-test-raub",
-  "version": "0.0.4",
-  "description": "Test node-qml validity",
+  "name": "gsom",
+  "version": "0.0.1",
+  "description": "Node based 3D app",
   "main": "_test.js",
   "keywords": [
-    "test",
+    "3d",
     "qml"
   ],
   "author": "Luis Blanco <raubtierxxx@gmail.com> (https://github.com/raub)",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raub/gsom.git"
+  },
   "dependencies": {
     "node-3d-qml-raub": "^0.1.2",
     "node-debug-raub": "^0.0.2"
