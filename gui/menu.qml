@@ -7,8 +7,8 @@ Rectangle {
 	
 	Column {
 		
-		color: 'red'
-		anchors.center: parent.center
+		anchors.horizontalCenter: parent.horizontalCenter
+		anchors.verticalCenter: parent.verticalCenter
 		
 		width : 200
 		height: 200
@@ -16,21 +16,18 @@ Rectangle {
 		MainButton {
 			text: qsTr('Start game')
 			anchors.horizontalCenter: parent.horizontalCenter
-			anchors.top: parent.top
 			anchors.topMargin: 24
 		}
 		
 		MainButton {
 			text: qsTr('Join game')
 			anchors.horizontalCenter: parent.horizontalCenter
-			anchors.top: parent.top
 			anchors.topMargin: 24
 		}
 		
 		MainButton {
 			text: qsTr('Quit')
 			anchors.horizontalCenter: parent.horizontalCenter
-			anchors.top: parent.top
 			anchors.topMargin: 24
 		}
 		
