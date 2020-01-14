@@ -4,7 +4,9 @@
 	"private": true,
 	"main": "index",
 	"dependencies": {
-		"3d-qml-raub": "1.0.0",
-		"3d-core-raub": "2.1.0"
+		"3d-qml-raub": "2.0.1",
+		"3d-core-raub": "3.0.2",
+		"3d-webaudio-raub": "1.0.0",
+		"3d-bullet-raub": "2.0.1"
 	}
 }
